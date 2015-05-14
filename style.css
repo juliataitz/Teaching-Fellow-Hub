@@ -10,9 +10,14 @@ header p{
 	text-align: center;
 }
 
-footer p{
+footer #copy{
 	font-family: arial;
 	font-size: 10px;
+	text-align: center;
+}
+footer #contact{
+	font-family: arial;
+	font-size: 17px;
 	text-align: center;
 }
 
@@ -42,4 +47,14 @@ footer p{
 	font-family: arial;
 	font-size: 20px;
 	/*text-align: center;*/
+}
+
+#fellow-communication{
+	text-align: center;
+	font-family: arial;
+}
+
+#fellow-title{
+	font-family: arial;
+	font-size: 25px;
 }
