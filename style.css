@@ -52,6 +52,12 @@ footer #contact{
 	/*text-align: center;*/
 }
 
+.slash{
+	font-family: arial;
+	font-size: 23px;
+	color: #14b3d9;
+}
+
 #fellow-communication{
 	text-align: center;
 	font-family: arial;
