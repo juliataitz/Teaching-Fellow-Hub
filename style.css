@@ -19,15 +19,18 @@ footer #contact{
 	font-family: arial;
 	font-size: 17px;
 	text-align: center;
+	color: black;
+
 }
+
 
 #information {
 	width: 100%;
 	font-size: 15px;
 	overflow: hidden;
 	font-family: arial;
-/*	text-align: center;
-*/}
+/*	text-align: center;*/
+}
 
 #column-pre-work {
 	float: left;
@@ -57,4 +60,8 @@ footer #contact{
 #fellow-title{
 	font-family: arial;
 	font-size: 25px;
+}
+
+a{
+	color: black;	
 }
