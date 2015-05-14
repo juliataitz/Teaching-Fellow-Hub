@@ -1,0 +1,45 @@
+header h2{
+	font-family: arial;
+	font-size: 40px;
+	text-align: center;
+}
+
+header p{
+	font-family: arial;
+	font-size: 25px;
+	text-align: center;
+}
+
+footer p{
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+}
+
+#information {
+	width: 100%;
+	font-size: 15px;
+	overflow: hidden;
+	font-family: arial;
+/*	text-align: center;
+*/}
+
+#column-pre-work {
+	float: left;
+}
+
+#column-agenda{
+	float: left;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#column-resouces{
+	float: left;
+}
+
+.title{
+	font-family: arial;
+	font-size: 20px;
+	/*text-align: center;*/
+}
