@@ -13,6 +13,7 @@ html {
 body {
   margin: 0;
 }
+
 article,
 aside,
 details,
@@ -6582,4 +6583,9 @@ button.close {
   }
 }
 
+/*.slash{
+  font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  color: #14b3d9;
+}*/
 /*# sourceMappingURL=bootstrap.css.map */

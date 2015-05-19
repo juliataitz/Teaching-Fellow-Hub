@@ -1,0 +1,51 @@
+b, strong {
+  font-weight: 700;
+  color: #14b3d9;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+  color: #14b3d9;
+}
+
+ol, ul {
+  margin-top: 0;
+  margin-bottom: 10px;
+  text-align: center;
+  margin-left: -25px;
+  list-style-type: none;
+}
+}
+
+.h3, h3 {
+  font-size: 24px;
+  color: #14b3d9;
+}
+
+a {
+
+	color: #333232;
+}
+
+#contact a{
+	color: #14b3d9;
+}
+
+
+
+/*.h5, h5 {
+  font-size: 14px;
+  color: #14b3d9;
+}*/
+
+.h3, h3 {
+  font-size: 24px;
+  color: #14b3d9;
+}
+
+#love{
+	text-align: center;
+}
