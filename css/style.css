@@ -101,8 +101,11 @@ li {
 #coming{
 	margin-left: 15px;
 }
-/*#NYC1 {
-	text-align: left;
-	margin-left: -40px;
-}*/
 
+img {
+  vertical-align: middle;
+  height: 100px;
+  margin: 10px;
+  border-radius: 3px;
+  border: 3px solid white;
+}
