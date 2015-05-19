@@ -14,6 +14,7 @@ header h2{
 	text-align: right;
 	color: #333232;
 	margin-right: 10px;
+
 }
 
 #welcome-image{
@@ -23,9 +24,6 @@ header h2{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-
-	
-    /*text-align: center;*/
 }
 
 #welcome-image img{
@@ -41,6 +39,13 @@ header h2{
 	font-size: 25px;
 	text-align: center;
 	color: #333232;
+	border: 3px solid #14b3d9;
+	/*color: white;*/
+	background-color: #14b3d9;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    line-height: 90%;
 }
 
 
@@ -51,39 +56,52 @@ footer #copy{
 	text-align: center;
 	color: #14b3d9;
 	float: center;
+
 }
+
 body #contact{
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
 
 	font-size: 17px;
 	text-align: center;
-	color: #333232;
+	color: #14b3d9;
 
+		/*border: 3px solid #14b3d9;*/
+		/*border-radius: 10px;*/
+	/*color: white;*/
+	background-color: #333232;
+	margin-bottom: 0px;
 
 }
 
 
 body #information {
-	width: 100%;
+	text-align: center;
+	width: 90%;
 	font-size: 15px;
 	overflow: hidden;
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
 	color: #333232;
 
-	text-align: center;
+	
+	border: 3px solid #14b3d9;
+
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-top: 20px;
+
 }
 
 #column-pre-work {
 	float: left;
 	color: #333232;
 	text-align: center;
-	marg
 
 }
 
 #column-agenda{
 	float: left;
-	margin-left: 170px;
+	margin-left: 140px;
 	/*margin-right: 150px;*/
 	color: #333232;
 	text-align: left;
@@ -117,6 +135,11 @@ body #information {
 	text-align: center;
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
 	color: #333232;
+		border: 3px solid #14b3d9;
+		border-radius: 10px;
+	/*color: white;*/
+	background-color: #14b3d9;
+
 
 
 }
@@ -125,12 +148,17 @@ body #information {
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
 	font-size: 25px;
 	color: #333232;
+}
+
+#email a{
+	/*color: black;	*/
+	/*color: #333232;*/
+	color: #14b3d9;
 
 }
 
-a{
-	/*color: black;	*/
-	color: #333232;
+#information a{
+		color: #333232;
 
 }
 
@@ -141,6 +169,7 @@ footer {
   overflow: hidden;
   color: #fff;
   font: 18px/23px "NimbusSan-Reg", Arial, Helvetica, sans-serif;
+
 }
 
 footer ul{
