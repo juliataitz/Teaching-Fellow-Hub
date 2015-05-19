@@ -16,20 +16,33 @@ header h2{
 	margin-right: 10px;
 }
 
+#welcome-image{
+	 background: url(images/welcome2.jpg) no-repeat center center fixed; 
+	 height: 450px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 
-header p{
+	
+    /*text-align: center;*/
+}
+
+#welcome-image img{
+	 background: url(images/welcome.png) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#welcome-text{
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
-
 	font-size: 25px;
 	text-align: center;
 	color: #333232;
-
 }
 
-/*header div #welcome-image{
-	text-align: center;
-	height: 100px;
-}*/
 
 footer #copy{
 	font: 16px/20px "NimbusSanCon-Reg", Arial, Helvetica, sans-serif;
@@ -149,14 +162,15 @@ footer li img {
 .find-course {
   z-index: 2;
   left: 50%;
-  top: 70%;
+  top: 55%;
   position: absolute;
   transform: matrix(1, 0, 0, 1, -84, 0);
   -webkit-transform: matrix(1, 0, 0, 1, -84, 0);
-  border: 3px solid #14b3d9;
+  border: 3px solid white;
 
   border-radius: 5px;
-  color: #14b3d9;;
+  /*color: #14b3d9;*/
+  color: white;
   font-family: NimbusSanCon-Reg, Arial, Helvetica, sans-serif;
   font-size: 18px;
   height: 30px;
