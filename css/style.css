@@ -11,20 +11,11 @@ b, strong {
   color: #14b3d9;
 }
 
-/*ol, ul {
-  margin-top: 0;
-  margin-bottom: 10px;
-  text-align: left;
-  margin-left: -25px;
- /* list-style-type: none;*/
-}*/
-
 ol, ul {
   margin-top: 0;
   margin-bottom: 10px;
   text-align: left;
   margin-left: -20px;
-  /* list-style-type: none; */
   font-size: 18px;
 }
 
@@ -82,7 +73,6 @@ ol, ul {
 }
 
 li {
-  /* list-style-type: none; */
   text-align: left;
   font-size: 12px;
 }
@@ -106,6 +96,4 @@ img {
   vertical-align: middle;
   height: 100px;
   margin: 10px;
-/*  border-radius: 3px;
-  border: 3px solid white;*/
 }
